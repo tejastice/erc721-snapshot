@@ -2,4 +2,7 @@
 
 これはERC721のスナップショットをとるプログラムです。
 
-Python3系で動作します。
+- Python3系で動作します。
+- InfulaのAPIを使います。
+- AlchemyのAPIを使います。
+
