@@ -9,4 +9,4 @@
 使い方はこの動画を見てください。
 
 
-[![動画リンク](https://img.youtube.com/vi/ZUb8IBQyM9o/0.jpg)](https://www.youtube.com/watch?v=ZUb8IBQyM9o)
+[![動画リンク](https://img.youtube.com/vi/b2A3KdGUyUc/0.jpg)](https://www.youtube.com/watch?v=b2A3KdGUyUc)
