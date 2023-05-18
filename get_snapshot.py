@@ -96,8 +96,8 @@ for key in list(balance.keys()):
         del balance[key]
 
 
-with open( "data/" + tokenName + '_balance.json', 'w') as f:
+with open( "data/" + tokenName + "_" + str(config_data["params"]["toBlock"]) + '_balance.json', 'w') as f:
     json.dump(balance, f, ensure_ascii=False)
-with open( "data/" + tokenName + '_mint.json', 'w') as f:
+with open( "data/" + tokenName + "_" + str(config_data["params"]["toBlock"]) + '_mint.json', 'w') as f:
     json.dump(mint, f, ensure_ascii=False)
 
