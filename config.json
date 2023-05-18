@@ -1,7 +1,7 @@
 {
     "chain" : "ethereum",
     "params":{
-        "toBlock" : 17283284,
+        "toBlock" : 17283039,
         "contractAddresses": "0xAc3aaFF5576CD40343651f1a32DD160Df3b36537",
         "symbol" : "CNN"
     },
@@ -10,6 +10,6 @@
         "month" : 5 , 
         "day"   : 18 , 
         "hour"  : 10 , 
-        "minute": 50 
+        "minute": 0
     }
 }
